@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "pythonfutures",
+  "versions": [
+    {
+      "commit": "738e37148b2f7ecd86cbb8c271f9e033ae66eff8",
+      "tag": "3.4.0",
+      "parsed_at": "2026-10-11T19:41:41.658338+00:00"
+    }
+  ]
+}
