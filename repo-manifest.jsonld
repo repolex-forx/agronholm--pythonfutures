@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/agronholm/pythonfutures/commit/738e37148b2f7ecd86cbb8c271f9e033ae66eff8",
       "git:hexsha": "738e37148b2f7ecd86cbb8c271f9e033ae66eff8",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "3.4.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "3.4.0",
+      "repolex:parsedAt": "2026-10-11T19:41:41.563947+00:00"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/pythonfutures/commit/a62bca6299df56e6bc7fbd48d387d7281943de59",
