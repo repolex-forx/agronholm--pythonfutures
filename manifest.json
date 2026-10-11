@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "pythonfutures",
+  "versions": [
+    {
+      "commit": "738e37148b2f7ecd86cbb8c271f9e033ae66eff8",
+      "parsed_at": "2026-10-11T19:38:35.640505+00:00",
+      "tag": "3.4.0",
+      "filetree": "filetree/738e37148b2f7ecd86cbb8c271f9e033ae66eff8.nq.gz",
+      "blobs": [
+        "blob/37156bad1675dfbe88ed783ad7cb3a0efe1833e1.nq.gz",
+        "blob/5cea44c8819730e27f5ac264e6e5a8c933a2ac92.nq.gz",
+        "blob/f7f525f6f1a9ec675c49735e4979b6ee0c67ce64.nq.gz",
+        "blob/d74cadea33efea661ca4967ed70825dcb6f817c1.nq.gz",
+        "blob/b36383a61027f0875a3cb103edc8f2a4528a3289.nq.gz",
+        "blob/f69d8403539380d92c51d9c69690ace4cb4cafdc.nq.gz",
+        "blob/f9d02ae930350b1073c237b43d2f51ff0cb82361.nq.gz",
+        "blob/7be4dc3f1f6c648fcbfee34978e098838154e7a6.nq.gz",
+        "blob/063077578f97b1ee6fe7f1fabe5c02d7358fda0f.nq.gz",
+        "blob/86e0af7fe6f309dc626f7f47e4da2b326c1ca5f1.nq.gz",
+        "blob/0a9f4f521d34ec3669e0d9b9ff4714e3769b133d.nq.gz",
+        "blob/13050037f7c33acbc8dad71420cbb44bb7cada00.nq.gz",
+        "blob/6405445cb0d19dfe8bbf2a759aab49efec1647e8.nq.gz",
+        "blob/0da2b3e64c34bc4efaf7740c1988587ad03125a9.nq.gz",
+        "blob/3e8021b56e5fdcd7dedf614501e6fa8d90f42516.nq.gz",
+        "blob/428b14bdfe4cd734ce8d147c05537dea19d9be29.nq.gz",
+        "blob/fdff7cb4c89ce75d24aa86f97f252b88ad11c439.nq.gz",
+        "blob/52860d0435a368ad1937bbd5c9770ffe99715f07.nq.gz",
+        "blob/bb327faf05ce3c41563d00cfe65e6a76dbc00b37.nq.gz",
+        "blob/a8d65b16b600cfb21829642e7fe99fb57c9eda55.nq.gz",
+        "blob/b9685cefe5a283f168803927b3007e890dbe6abc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
